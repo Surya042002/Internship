@@ -244,14 +244,6 @@ while($row=mysqli_fetch_array($ret))
     format: 'yyyy-mm-dd',
     startDate: '-3d'
 });
-		</script>
-		  <script type="text/javascript">
-            $('#timepicker1').timepicker();
-        </script>
-		<!-- end: JavaScript Event Handlers for this page -->
-		<!-- end: CLIP-TWO JAVASCRIPTS -->
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
 
 	</body>
 </html>
