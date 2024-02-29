@@ -244,6 +244,5 @@ while($row=mysqli_fetch_array($ret))
     format: 'yyyy-mm-dd',
     startDate: '-3d'
 });
-
 	</body>
 </html>
